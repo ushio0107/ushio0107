@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leung Yan Tung</h1>
-<h3 align="center"> Backend | Life With Passion </h3>
+<h3 align="center"> Backend Engineer | Life With Passion </h3>
 
 <h3 align="left">Short-term goal:</h3>
 <p align="left">Learn Python and submit an app to LLM Hackathon!</p>
